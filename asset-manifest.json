@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9835fb55.css",
+    "main.js": "./static/js/main.3d8bbd90.js",
+    "static/js/787.03fe6faf.chunk.js": "./static/js/787.03fe6faf.chunk.js",
+    "static/media/girl.jpg": "./static/media/girl.105a092fb6c4abe783ec.jpg",
+    "static/media/back-nutri.png": "./static/media/back-nutri.270e311c715cae735f5a.png",
+    "static/media/talk.jpg": "./static/media/talk.ed081d6b827630f0e6f9.jpg",
+    "static/media/online.jpg": "./static/media/online.57a1fdff4e03c5e9c532.jpg",
+    "static/media/woman.png": "./static/media/woman.fd7524df42fece115a01.png",
+    "index.html": "./index.html",
+    "main.9835fb55.css.map": "./static/css/main.9835fb55.css.map",
+    "main.3d8bbd90.js.map": "./static/js/main.3d8bbd90.js.map",
+    "787.03fe6faf.chunk.js.map": "./static/js/787.03fe6faf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9835fb55.css",
+    "static/js/main.3d8bbd90.js"
+  ]
+}
